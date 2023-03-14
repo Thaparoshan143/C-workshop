@@ -113,6 +113,7 @@ int main(){
 	int CatFoodInfo[MAX];
 	openingMessage(constVal);
 	int i;
+	printf("This is test with Git update");
 	for(i=1;i<=3;i++){
 			getCatFoodInfo(i);	
 	}
